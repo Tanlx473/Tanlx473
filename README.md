@@ -43,7 +43,7 @@
 ## 🧑‍💻 关于我
 - 🎓 **计算机科学专业学生**，同时涉足 **材料科学与工程**
 - 🏗️ 正在从零开始构建我的 **个人博客** —— 因为为什么不呢？
-- 💻 使用  **MacBook Pro & iPhone/iPad**, WebStorm & PyCharm……等等更多来自JetBrains的IDE,Visual Studio Code(偶尔)
+- 💻 使用  **MacBook Pro & iPhone/iPad**, WebStorm & PyCharm……等等更多来自JetBrains的IDE, Visual Studio Code(偶尔)
 - 🎤 **音乐爱好者** | 以前学过钢琴，爵士鼓，还有一点点吉他，现在靠唱歌解压
 - 💪 **好动（喜欢运动）** 我喜欢打羽毛球🏸、网球🎾、游泳🏊、跑步🏃、骑行🚴和健身🏋️
 - 🎯 学习 **Final Cut Pro**（未来会成为 Vlogger 吗？也许 🤔）
