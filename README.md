@@ -28,8 +28,8 @@
 ![Final Cut Pro](https://img.shields.io/badge/-Final%20Cut%20Pro-999999?logo=apple&logoColor=white)
 
 ## 📌 Fun Fact
-🔹 I prefer **paperless learning** isn’t just about saving trees—it’s about **better structure, real-time updates, and cloud security**. 
-🔹 My future site will probably contain a mix of **tech, daily thoughts, and random ideas**. 
+- 🔹 I prefer **paperless learning** isn’t just about saving trees—it’s about **better structure, real-time updates, and cloud security**. 
+- 🔹 My future site will probably contain a mix of **tech, daily thoughts, and random ideas**. 
 
 📬 **Let’s Connect!** Feel free to reach out if you love tech, AI, or just want to chat about cool projects or hobbies !
 
@@ -65,8 +65,8 @@
 ![Final Cut Pro](https://img.shields.io/badge/-Final%20Cut%20Pro-999999?logo=apple&logoColor=white)
 
 ## 📌 趣味事实
-🔹 我更喜欢 **无纸化学习** 不只是为了环保，它还能 **更好地组织内容、提供实时更新，并保障云端安全**。
-🔹 我的未来网站可能会包含 **技术、日常想法以及一些奇思妙想**。
+- 🔹 我更喜欢 **无纸化学习** 不只是为了环保，它还能 **更好地组织内容、提供实时更新，并保障云端安全**。
+- 🔹 我的未来网站可能会包含 **技术、日常想法以及一些奇思妙想**。
 
 📬 **欢迎联系！** 如果你喜欢技术、人工智能，或者只是想聊聊有趣的项目或者爱好，随时联系我！
 
