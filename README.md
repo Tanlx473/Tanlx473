@@ -1,7 +1,7 @@
 
 # Hi there, I'm Jeremy TAM 👋
 
-Click [here](www.jeremy-tan.com) to visit my personal website
+Visit my personal website: www.jeremy-tan.com
 
 > 🚀 Exploring CS, tinkering with AI, and occasionally breaking things (for science!)
 
